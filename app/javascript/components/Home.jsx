@@ -14,7 +14,7 @@ export default () => (
         className="btn btn-lg custom-button"
         role="button"
     >
-        View Recipes
+        View Materials
     </Link>
     </div>
   </div>
